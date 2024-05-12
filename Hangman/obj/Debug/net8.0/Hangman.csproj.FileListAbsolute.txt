@@ -1,0 +1,14 @@
+C:\Users\ejons\source\repos\Hangman\Hangman\obj\Debug\net8.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ejons\source\repos\Hangman\Hangman\obj\Debug\net8.0\Hangman.AssemblyInfoInputs.cache
+C:\Users\ejons\source\repos\Hangman\Hangman\obj\Debug\net8.0\Hangman.AssemblyInfo.cs
+C:\Users\ejons\source\repos\Hangman\Hangman\obj\Debug\net8.0\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\ejons\source\repos\Hangman\Hangman\bin\Debug\net8.0\Hangman.exe
+C:\Users\ejons\source\repos\Hangman\Hangman\bin\Debug\net8.0\Hangman.deps.json
+C:\Users\ejons\source\repos\Hangman\Hangman\bin\Debug\net8.0\Hangman.runtimeconfig.json
+C:\Users\ejons\source\repos\Hangman\Hangman\bin\Debug\net8.0\Hangman.dll
+C:\Users\ejons\source\repos\Hangman\Hangman\bin\Debug\net8.0\Hangman.pdb
+C:\Users\ejons\source\repos\Hangman\Hangman\obj\Debug\net8.0\Hangman.dll
+C:\Users\ejons\source\repos\Hangman\Hangman\obj\Debug\net8.0\refint\Hangman.dll
+C:\Users\ejons\source\repos\Hangman\Hangman\obj\Debug\net8.0\Hangman.pdb
+C:\Users\ejons\source\repos\Hangman\Hangman\obj\Debug\net8.0\Hangman.genruntimeconfig.cache
+C:\Users\ejons\source\repos\Hangman\Hangman\obj\Debug\net8.0\ref\Hangman.dll
